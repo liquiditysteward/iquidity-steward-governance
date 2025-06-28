@@ -1,6 +1,6 @@
 # Liquidity Steward, DAO LLC
 
-[![Wyoming DAO LLC](https://img.shields.io/badge/WY--Registered--DAO--LLC-Active-brightgreen)](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=2025-001710518)
+[![Wyoming DAO LLC](https://img.shields.io/badge/WY--Registered--DAO--LLC-Active-brightgreen)](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
 
 
 > **Decentralized liquidity exit automation for token-based communities and DAOs**
