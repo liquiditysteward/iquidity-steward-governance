@@ -17,7 +17,7 @@ This repository outlines the governance framework and smart contract roadmap as 
 
 ## 🚀 Quick Start
 
-- 📜 [Wyoming Secretary of State Filing](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=2025-001710518)
+- 📜 [Wyoming Secretary of State Filing](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
 - 🧠 [Governance Discussions](https://github.com/liquiditysteward/liquidity-steward-governance/issues)
 
 ---
