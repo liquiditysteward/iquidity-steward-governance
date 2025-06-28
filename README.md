@@ -1,6 +1,7 @@
 # Liquidity Steward, DAO LLC
 
-![Wyoming DAO LLC](https://img.shields.io/badge/WY--Registered--DAO--LLC-Active-brightgreen)
+[![Wyoming DAO LLC](https://img.shields.io/badge/WY--Registered--DAO--LLC-Active-brightgreen)](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=2025-001710518)
+
 
 > **Decentralized liquidity exit automation for token-based communities and DAOs**
 
@@ -16,8 +17,7 @@ This repository outlines the governance framework and smart contract roadmap as 
 
 ## 🚀 Quick Start
 
-- 🔗 [Smart Contract (planned)](https://etherscan.io/address/0xYourPlannedContractAddressHere)
-- 📜 [Wyoming Secretary of State Filing](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=your-filing-number)
+- 📜 [Wyoming Secretary of State Filing](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=2025-001710518)
 - 🧠 [Governance Discussions](https://github.com/liquiditysteward/liquidity-steward-governance/issues)
 
 ---
@@ -74,7 +74,7 @@ This repository outlines the governance framework and smart contract roadmap as 
 
 ## 🧠 Smart Contract Reference
 
-- Ethereum contract address (planned): `0xYourPlannedContractAddressHere`
+- Ethereum contract address (planned): TBD
 - Codebase: `contracts/` directory in this repo *(coming soon)*
 
 ---
