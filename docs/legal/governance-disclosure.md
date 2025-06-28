@@ -16,7 +16,6 @@ This document satisfies the public disclosure requirement for DAO governance rul
 - **Status**: Active
 
 ### Public Record
-- **Wyoming Secretary of State**: [Business Filing Details](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
 - **Governance Repository**: [GitHub Repository](https://github.com/liquiditysteward/liquidity-steward-governance)
 
 ---
@@ -178,11 +177,7 @@ This document and the associated governance framework satisfy the public disclos
 ## 📞 Contact Information
 
 ### Governance Inquiries
-- **GitHub Issues**: [Governance Discussions](https://github.com/liquiditysteward/liquidity-steward-governance/issues)
 - **Documentation**: [Full Documentation](../README.md)
-
-### Legal Inquiries
-- **Wyoming Secretary of State**: [Business Filing](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
 
 ---
 

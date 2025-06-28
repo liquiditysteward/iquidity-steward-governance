@@ -12,10 +12,10 @@ Liquidity Steward is a DAO-governed system of autonomous agents designed to mana
 ## 1. Introduction
 
 ### 1.1 Background
-Token projects face two long-standing challenges: managing large token sales without disrupting the market, and addressing inflationary pressures without centralized intervention. Traditional approaches rely on market makers, OTC deals, and team-managed reserves—solutions that lack transparency and community alignment.
+Token projects face fundamental challenges in managing their economic systems: managing liquidity without market disruption, controlling inflation without centralized intervention, maintaining market stability against manipulation, and avoiding reliance on opaque centralized mechanisms. Traditional approaches rely on market makers, OTC deals, and team-managed reserves—solutions that lack transparency, community alignment, and systematic policy enforcement.
 
 ### 1.2 Vision
-Liquidity Steward offers a decentralized alternative: a programmable, policy-driven monetary engine governed by DAOs and enforced through autonomous agents.
+Liquidity Steward offers a comprehensive decentralized alternative: a programmable, policy-driven monetary framework governed by DAOs and enforced through autonomous agents.
 
 > Like a decentralized Federal Reserve for tokens.
 
@@ -24,15 +24,15 @@ Liquidity Steward offers a decentralized alternative: a programmable, policy-dri
 ## 2. Core Components
 
 ### 2.1 DAO Governance Layer
-- Members propose and vote on liquidity policy
+- Members propose and vote on monetary policy
 - Confidential commit-reveal voting with encrypted parameters
 - Voting power adjusted to discourage self-serving manipulation
 
 ### 2.2 Autonomous Agents
-- **Throttled Sellers**: Controlled exits for large token holders
-- **Buyback Guardrail**: Counter-dump mechanism to absorb harmful sell pressure
-- **Buy and Burn Agent**: Reduces inflation through strategic market buys and burns
-- **Volatility Dampeners**: Pause agent activity during high volatility
+- **Throttled Sellers**: Controlled exits for large token holders to prevent market crashes
+- **Buyback Guardrail**: Automated defense system that responds to aggressive dumping
+- **Buy and Burn Agent**: Combats inflation through strategic market purchases and burns
+- **Volatility Dampeners**: Intelligent pausing during high market volatility
 
 ### 2.3 Confidential Execution System
 - Parameters and strategies encrypted until execution

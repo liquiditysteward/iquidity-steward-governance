@@ -41,8 +41,6 @@ Legal compliance and regulatory information
 
 ## 🔗 External Resources
 
-- **Wyoming Secretary of State Filing**: [Business Details](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
-- **Governance Discussions**: [GitHub Issues](https://github.com/liquiditysteward/liquidity-steward-governance/issues)
 - **Main Repository**: [liquidity-steward-governance](https://github.com/liquiditysteward/liquidity-steward-governance)
 
 ## 📝 Contributing

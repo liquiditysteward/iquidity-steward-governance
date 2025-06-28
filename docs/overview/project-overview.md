@@ -2,13 +2,15 @@
 
 [![Wyoming DAO LLC](https://img.shields.io/badge/WY--Registered--DAO--LLC-Active-brightgreen)](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
 
-> **Decentralized liquidity exit automation for token-based communities and DAOs**
+> **A decentralized monetary framework for tokenized markets**
 
 ---
 
 ## 🔍 Executive Summary
 
-**Liquidity Steward, DAO LLC** is a Wyoming-registered decentralized autonomous organization (DAO) that provides services to other DAOs and large token holders to help them exit large token positions in low-liquidity markets. The service is designed to minimize the impact on price when large token holders sell by using AI agents that are trained to exit over time—avoiding large market orders that could cause panic or slippage.
+**Liquidity Steward, DAO LLC** is a Wyoming-registered decentralized autonomous organization (DAO) that provides a comprehensive monetary policy framework for token ecosystems. We enable DAOs and token communities to implement programmable, transparent monetary policy through autonomous agents—essentially creating a "decentralized Federal Reserve" for tokens.
+
+Our system addresses the fundamental challenges facing token projects: managing liquidity, controlling inflation, and maintaining market stability without relying on centralized actors or opaque mechanisms.
 
 This repository outlines the governance framework and smart contract roadmap as required under W.S. 17‑31‑104.
 
@@ -16,39 +18,49 @@ This repository outlines the governance framework and smart contract roadmap as 
 
 ## 🚀 Quick Start
 
-- 📜 [Wyoming Secretary of State Filing](https://wyobiz.wyo.gov/business/FilingDetails.aspx?eFNum=096245037255134149108043243008151010166095216146)
-- 🧠 [Governance Discussions](https://github.com/liquiditysteward/liquidity-steward-governance/issues)
-- 📚 [Full Documentation](../README.md)
+- 📚 [Full Documentation](../README.md) - Comprehensive project documentation
+- 🏠 [Main Repository](../..) - Return to main project page
 
 ---
 
 ## 🎯 Core Value Proposition
 
 ### The Problem
-Token projects face two long-standing challenges:
-1. **Managing large token sales** without disrupting the market
-2. **Addressing inflationary pressures** without centralized intervention
+Token projects face fundamental challenges in managing their economic systems:
+1. **Liquidity Management**: Large token sales disrupt markets and destroy value
+2. **Inflation Control**: Unchecked supply growth erodes token value over time
+3. **Market Stability**: Volatility and manipulation harm long-term adoption
+4. **Centralization Risk**: Reliance on opaque market makers and centralized authorities
 
 ### The Solution
-Liquidity Steward offers a decentralized alternative: a programmable, policy-driven monetary engine governed by DAOs and enforced through autonomous agents.
+Liquidity Steward provides a **decentralized monetary framework** that enables token communities to:
+- **Govern their own monetary policy** through transparent, algorithmically enforced rules
+- **Automate liquidity management** with intelligent agents that minimize market impact
+- **Control inflation** through strategic buy-and-burn mechanisms
+- **Maintain market stability** with automated defense systems against manipulation
 
-> Like a decentralized Federal Reserve for tokens.
+> **Liquidity is governance. Monetary policy is code.**
 
 ---
 
 ## 🧰 Key Components
 
 ### Autonomous Agents
-- **Throttled Sellers**: Controlled exits for large token holders
-- **Buyback Guardrail**: Counter-dump mechanism to absorb harmful sell pressure
-- **Buy and Burn Agent**: Reduces inflation through strategic market buys and burns
-- **Volatility Dampeners**: Pause agent activity during high volatility
+- **Throttled Sellers**: Controlled exits for large token holders to prevent market crashes
+- **Buyback Guardrail**: Automated defense system that responds to aggressive dumping
+- **Buy and Burn Agent**: Combats inflation through strategic market purchases and burns
+- **Volatility Dampeners**: Intelligent pausing during high market volatility
 
 ### Governance System
-- **Confidential Governance**: Parameters encrypted until execution
-- **Commit-Reveal Voting**: Prevents gaming and manipulation
-- **Post-Execution Transparency**: Full auditability after execution
-- **AI Oversight**: Automated due diligence on all proposals
+- **Confidential Governance**: Parameters encrypted until execution to prevent gaming
+- **Commit-Reveal Voting**: Privacy-preserving voting that prevents manipulation
+- **Post-Execution Transparency**: Full auditability and verification after execution
+- **AI Oversight**: Automated due diligence and impact modeling for all proposals
+
+### Policy Tools
+- **Policy Simulator**: Pre-execution impact modeling and backtesting
+- **Performance Tracking**: Measurable KPIs and outcome-based accountability
+- **Risk Management**: Comprehensive risk assessment and mitigation strategies
 
 ---
 
